@@ -1,4 +1,4 @@
-# C & C# Learning Path 🚀
+# C & C# Learning Path ☕
 
 This repository is dedicated to mastering low-level programming with **C** and modern application development with **C# (.NET)**.
 
@@ -29,7 +29,7 @@ To maintain a clean environment, the projects are organized into dedicated direc
 
 ## 👤 Author
 
-Developed by **Pablo Jiménez**.
+Developed by **pjf752**.
 
 Feel free to connect or check out my other projects:
-* **GitHub**: [github.com/ualpjf752](https://github.com/ualpjf752) 🚀
+* **GitHub**: [github.com/ualpjf752](https://github.com/ualpjf752) 
