@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C-CSharp-Learning-Path", "C-CSharp-Learning-Path", "{ED114B62-C6C6-CF95-897E-05B9B5FA20ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp_Projects", "CSharp_Projects", "{14972464-F35E-BFD3-819A-986CCD8890BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_App_01", "C-CSharp-Learning-Path\CSharp_Projects\Console_App_01\Console_App_01.csproj", "{62CB6EB4-C994-D9CD-09F4-8C6A71DAD429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62CB6EB4-C994-D9CD-09F4-8C6A71DAD429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62CB6EB4-C994-D9CD-09F4-8C6A71DAD429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62CB6EB4-C994-D9CD-09F4-8C6A71DAD429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62CB6EB4-C994-D9CD-09F4-8C6A71DAD429}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{14972464-F35E-BFD3-819A-986CCD8890BA} = {ED114B62-C6C6-CF95-897E-05B9B5FA20ED}
+		{62CB6EB4-C994-D9CD-09F4-8C6A71DAD429} = {14972464-F35E-BFD3-819A-986CCD8890BA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96FA69F3-1019-422C-A625-D96E9F686410}
+	EndGlobalSection
+EndGlobal
